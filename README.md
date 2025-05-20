@@ -1,3 +1,0 @@
--- minic is minimalist c.
--- it shortens everything
---no tabs, no lines, all in one
